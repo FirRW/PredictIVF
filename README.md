@@ -74,7 +74,7 @@ def feature_engineering_target (df_selected):
 
 
 ## **Developed By**
-- Firdan Rahman W. : https://github.com/FearDawn
+- Firdan Rahman W. : https://github.com/FirRW
 - Galih M
 - Ridha 
 
